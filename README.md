@@ -44,3 +44,7 @@ POST http://exercise-5-elastic-beanstalk-dev22.us-east-1.elasticbeanstalk.com/au
 }
 
 ```
+
+### Deployment
+
+## Screenshots and detailed steps for deploying the application are available in the `deployment_screenshot` directory. If you would like to check the screenshots, please check the `deployment_screenshot` directory.
