@@ -33,7 +33,6 @@ GET http://exercise-5-elastic-beanstalk-dev22.us-east-1.elasticbeanstalk.com/ima
 
 ```
 POST http://exercise-5-elastic-beanstalk-dev22.us-east-1.elasticbeanstalk.com/auth/token
-
 ```
 
 ## Request Body

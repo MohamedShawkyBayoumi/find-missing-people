@@ -31,7 +31,7 @@ import cors from "cors";
     res
       .status(200)
       .send(
-        "Welcome to the Cloud! Try GET /images/filteredimage?image_url={{}} with adding the Authorisation"
+        "Welcome to the Cloud! Try GET /images/filteredimage?image_url={{}}"
       );
   });
 
